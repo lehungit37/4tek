@@ -136,6 +136,7 @@ export const StyledTime = styled.div`
   border-radius: 21px;
 
   display: flex;
+  justify-content: center;
   gap: 120px;
 
   .group {

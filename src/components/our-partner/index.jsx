@@ -40,7 +40,7 @@ function OurPartner() {
 
   const getSize = () => {
     if (width <= 1023) {
-      return 188 + 110;
+      return 188 + 12 + 94;
     }
 
     return 300;

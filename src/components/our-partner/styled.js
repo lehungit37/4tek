@@ -48,8 +48,10 @@ export const StyledOurPartner = styled.section`
   }
 
   .list-logo {
-    display: flex;
+    /* display: flex; */
     overflow: hidden;
+    display: grid;
+    grid-template-columns: repeat(7, 260px);
     gap: 40px;
     max-width: 1460px;
 
@@ -87,7 +89,9 @@ export const StyledOurPartner = styled.section`
 
     .list-logo {
       gap: 12px;
-      overflow: unset;
+      /* overflow: unset; */
+      max-width: 988px;
+      grid-template-columns: repeat(7, 188px);
       .logo {
         width: 188px;
         height: 72px;

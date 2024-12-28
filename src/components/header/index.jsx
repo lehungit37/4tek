@@ -37,7 +37,21 @@ function Header() {
 
   const [flagSelected, setFlagSelected] = useState(FLAGS[0]);
   const [openLocale, setOpenLocale] = useState(false);
-  const [showMenu, setShowMenu] = useState(true);
+  const [showMenu, setShowMenu] = useState(false);
+
+  useEffect(() => {
+    if (showMenu) {
+      document.body.style.overflow = "hidden";
+      document.body.style.height = "100vh";
+    } else {
+      document.body.style.overflow = "auto";
+      document.body.style.height = "unset";
+    }
+
+    return () => {
+      document.body.style.overflow = "auto";
+    };
+  }, [showMenu]);
 
   const getDefault = () => {
     if (!locale) {
