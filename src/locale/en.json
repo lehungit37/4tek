@@ -1,0 +1,84 @@
+{
+  "menu": {
+    "aboutUs": "About Us",
+    "game": "Games",
+    "partner": "Partners",
+    "contact": "Contact us"
+  },
+
+  "input": {
+    "mail": "Enter your email",
+    "footer-mail": "Enter your email"
+  },
+  "locale": {
+    "vi": "Vietnamese",
+    "en": "English"
+  },
+  "banner": {
+    "getting": "We’re Getting Ready",
+    "des": "We will back to something amazing. Getting the latest updates about our games. Please sign up to our newsletter."
+  },
+  "time": {
+    "d": "Days",
+    "h": "Hours",
+    "m": "Minutues",
+    "s": "Seconds"
+  },
+
+  "about": {
+    "title": "About Us",
+    "des": "Browse our selection of free online games and have a great time without leaving the site! Our Kids Games option also includes game reviews, extensive game cheats and walkthroughs, and much more. We have exclusive free downloads, videos, and articles as well. Etech reviews the most popular kids games from all the most popular video gaming platforms, so you don’t need to search around for fun anywhere else on the Internet. Explore a whole new world of gaming on Etech.",
+    "user": "Users",
+    "game": "Games",
+
+    "schedule": {
+      "title": "24 - Hour",
+      "des": "24/7 access ensures operators' businesses runs smoothly all year long."
+    },
+    "design": {
+      "title": "Design",
+      "des": "Combining imaginative universes, play dynamics, and unprecedented gameplay, our games transcend the boundaries of the virtual world by weaving innovative gameplay."
+    },
+    "team": {
+      "title": "Team",
+      "des": "Etech is an award-winning, international studio of designers, artists, animators and producers that create content for the biggest names in film and video games. "
+    }
+  },
+
+  "game": {
+    "title": "Our Games",
+    "des": "As a pioneer of mobile app gamification, we take pride in originality and individuality, providing global players with state-of-the-art games that feature splendid storylines, sensational sound effects and magnificent animation that never cease to impress.",
+    "e-space": "E-Space",
+    "king-land": "Kingland",
+    "last-game": "The Last Game",
+    "g-dragon": "G-Dragon",
+    "pirates": "Pirates",
+    "witch-party": "Witch Party",
+    "rocky": "Rocky",
+    "blue-fire": "Blue Fire",
+    "magic-tree": "Trau Vang",
+    "aborigines": "Aborigines",
+    "cinderella": "Cinderella",
+    "egypt": "Egypt Game"
+  },
+
+  "partner": {
+    "title": "Our Partners"
+  },
+
+  "footer": {
+    "address": {
+      "title": "Address",
+      "1": "Valletta Buildings, South Street, Valletta - VLT 1103 Malta, US",
+      "2": "20 Phan Dang Luu street, Hai Chau District, Danang city, Vietnam"
+    },
+
+    "subscribe": {
+      "title": "Subscribe",
+      "des": "Subscribe to our newsletter and be the first to know about our updates",
+      "input": "Enter your email"
+    },
+
+    "copyRight": "2017 Copyright. Policy."
+  }
+}

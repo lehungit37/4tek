@@ -1,0 +1,8 @@
+.header {
+}
+
+.logo {
+  background: url("/images/logo-pc.svg") no-repeat;
+  height: 64px;
+  width: 109px;
+}
