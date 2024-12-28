@@ -24,7 +24,7 @@ function OurPartner() {
 
   const onPrev = () => {
     if (active - 1 < 0) {
-      setActive(count());
+      setActive(count() - 1);
       return;
     }
     setActive(active - 1);
